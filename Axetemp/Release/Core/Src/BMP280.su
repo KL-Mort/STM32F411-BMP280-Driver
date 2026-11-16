@@ -1,0 +1,7 @@
+../Core/Src/BMP280.c:4:9:BMP280_ReadID	4	static
+../Core/Src/BMP280.c:15:9:BMP280_GetStatus	24	static
+../Core/Src/BMP280.c:35:9:BMP280_SetConfig	24	static
+../Core/Src/BMP280.c:53:9:BMP280_Init	48	static
+../Core/Src/BMP280.c:88:9:BMP280_ReadRaw	24	static
+../Core/Src/BMP280.c:112:9:BMP280_Compen	32	static
+../Core/Src/BMP280.c:149:9:BMP280_ReadData	32	static
